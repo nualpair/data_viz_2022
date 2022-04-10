@@ -4,10 +4,11 @@ Basic Programming for Data Science and Data Visualization : นวลแพร �
 
 **Project**
 
-* [Dashboard](https://datastudio.google.com/s/gqD5W3klUMo)
-
 
 * [Power Point](https://github.com/nualpair/data_viz_2022/blob/main/Present-Project.pdf)
+
+* [Dashboard](https://datastudio.google.com/s/gqD5W3klUMo)
+
 
 
 **Exam Final**
