@@ -14,6 +14,6 @@ Basic Programming for Data Science and Data Visualization : นวลแพร �
 
 * [Data pre-processing](https://github.com/nualpair/data_viz_2022/blob/main/Final_exam.ipynb)
 
-  - [Dashboard](https://datastudio.google.com/s/q2sBYVaXNEw)
+* [Dashboard](https://datastudio.google.com/s/q2sBYVaXNEw)
 
 
